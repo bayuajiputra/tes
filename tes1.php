@@ -1,2 +1,2 @@
 <?php
-echo "tes1";
+echo "tes1 release";
