@@ -1,2 +1,2 @@
 <?php
-echo "tes2";
+echo "tes2 hotfix";
